@@ -1,1 +1,1 @@
-(DEMO)[https://react-pricing.netlify.app/]
+[DEMO](https://react-pricing.netlify.app/)
